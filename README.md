@@ -1,5 +1,5 @@
 # Deep-Learning-Coursera-Ng
-I finished the Coursera Deep Learning Specialization given by Ng in 2017 with massive work. The courses are on going. 
+Solutions to Coursera Deep Learning Specialization given by Ng in 2017 and 2018. 
 The specialization includes five parts:
 1. Neural Networks and Deep Learning:(Finished)
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization:(Finished)
