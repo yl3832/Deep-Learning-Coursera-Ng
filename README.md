@@ -1,4 +1,5 @@
-# Deep-Learning-Coursera-Ng
+# Deep Learning Specialization on Coursera
+## Instructor: Andrew Ng
 Solutions to Coursera Deep Learning Specialization given by Ng in 2017 and 2018. 
 The specialization includes five parts:
 1. Neural Networks and Deep Learning:(Finished)
